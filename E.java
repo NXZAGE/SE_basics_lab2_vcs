@@ -19,4 +19,8 @@ public class E {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
 }

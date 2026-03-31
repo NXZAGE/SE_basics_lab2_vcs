@@ -19,4 +19,8 @@ public class J extends E {
     public float ff() {
         return 3.14;
     }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
 }
