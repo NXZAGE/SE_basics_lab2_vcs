@@ -19,4 +19,28 @@ public class J extends E {
     public float ff() {
         return 3.14;
     }
+
+    public void ab() {
+        return;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public long dd() {
+        return 99999;
+    }
 }
