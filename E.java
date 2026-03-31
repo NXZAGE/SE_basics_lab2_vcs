@@ -23,4 +23,8 @@ public class E {
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
     }
+
+    public double ad() {
+        return 9.11;
+    }
 }

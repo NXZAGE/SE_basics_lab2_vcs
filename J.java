@@ -23,4 +23,8 @@ public class J extends E {
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
+
+    public Object pp() {
+        return this;
+    }
 }
