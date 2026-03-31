@@ -1,4 +1,4 @@
-public class E {
+public class E extends null {
 
     private String a = "hello";
 
@@ -22,5 +22,17 @@ public class E {
 
     public java.util.Set<Integer> ll() {
         return new java.util.LinkedList<Integer>;
+    }
+
+    public String kk() {
+        return "No";
+    }
+
+    public void ab() {
+        return;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
     }
 }

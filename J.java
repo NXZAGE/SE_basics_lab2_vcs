@@ -23,4 +23,24 @@ public class J extends E {
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
+
+    public Object gg() {
+        return new java.util.Random();
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
