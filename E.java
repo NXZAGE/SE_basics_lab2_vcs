@@ -27,4 +27,8 @@ public class E {
     public double ad() {
         return 9.11;
     }
+
+    public int af() {
+        return -1;
+    }
 }
