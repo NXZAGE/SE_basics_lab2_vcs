@@ -11,4 +11,8 @@ public class J extends E {
     public int af() {
         return -1;
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }
