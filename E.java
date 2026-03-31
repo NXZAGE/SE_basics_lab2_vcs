@@ -11,4 +11,8 @@ public class E {
     public void bb() {
         System.out.println(42);
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }
