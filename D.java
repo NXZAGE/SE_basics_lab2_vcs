@@ -1,6 +1,7 @@
-public class D extends null {
-
-    void ab();
+public class D extends FeatureCode {
+    void ab() {
+        System.out.println("realisation");
+    }
 
     void aa();
 
